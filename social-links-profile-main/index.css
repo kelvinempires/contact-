@@ -1,0 +1,40 @@
+
+
+.imgCOntainer {
+  background-color: rgb(128, 255, 0);
+  width: 150px;
+  height: 150px;
+  padding: 2px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.h1 {
+  color: rgba(255, 255, 255, 0.856);
+  font-size: xx-large;
+  font-family: Arial, Helvetica;
+  font-weight: bold;
+}
+.first-P {
+  color: rgb(128, 255, 0);
+  padding-bottom: 15px;
+}
+p {
+  color: white;
+  padding-bottom: 8px;
+}
+.btn {
+  background-color: rgba(0, 0, 0, 0.365);
+  margin: 5px;
+  padding: 7px 0px;
+  width: 350px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(245, 245, 245, 0.349);
+}
+.btn:hover {
+  color: rgba(0, 0, 0, 0.749);
+  background-color: rgb(128, 255, 0);
+  font-weight: bolder;
+  transform: 0.5s;
+}
