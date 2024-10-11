@@ -1,5 +1,15 @@
 
-
+.linking{
+    position: fixed;
+    top: 2%;
+    left: 2%;
+    border: 1px solid black;
+    width: 70px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.295);
+    background-color: rgba(128, 128, 128, 0.521);
+    border-radius: 20px;
+}
 .imgCOntainer {
   background-color: rgb(128, 255, 0);
   width: 150px;
